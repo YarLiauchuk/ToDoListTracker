@@ -1,0 +1,9 @@
+_temp_*
+.idea/
+.vs/
+*.Development.json
+*.DotSettings
+*.user
+/nuget.config
+bin/
+obj/
